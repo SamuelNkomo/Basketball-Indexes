@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Basketball", "Basketball\Basketball.csproj", "{FEE13C06-36FE-4C42-91F0-BDB8C8059CF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestBasketball", "UnitTestBasketball\UnitTestBasketball.csproj", "{15F422CD-2810-46DE-A1A8-2CAAB5014E02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEE13C06-36FE-4C42-91F0-BDB8C8059CF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE13C06-36FE-4C42-91F0-BDB8C8059CF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE13C06-36FE-4C42-91F0-BDB8C8059CF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE13C06-36FE-4C42-91F0-BDB8C8059CF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15F422CD-2810-46DE-A1A8-2CAAB5014E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15F422CD-2810-46DE-A1A8-2CAAB5014E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15F422CD-2810-46DE-A1A8-2CAAB5014E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15F422CD-2810-46DE-A1A8-2CAAB5014E02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F123C793-0188-473F-9E0B-7D512D580DDC}
+	EndGlobalSection
+EndGlobal
